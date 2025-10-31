@@ -12,66 +12,21 @@ Each topic includes problems categorized into **Easy, Medium, and Hard** levels 
 
 ---
 
-## 🗂️ Repository Structure
+## 📂 Folder Structure
 
-DSA-Topicwise-Problems/
-│
-├── Arrays/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
-│
-├── Strings/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
-│
-├── LinkedList/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
-│
-├── Stacks/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
-│
-├── Queues/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
-│
-├── Trees/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
-│
-├── Graphs/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
-│
-├── Recursion/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
-│
-├── DynamicProgramming/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
-│
-├── SearchingSorting/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
-│
-├── BitManipulation/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
-│
-└── README.md
+| Topic | Easy | Medium | Hard |
+|:------|:-----:|:-------:|:----:|
+| **Arrays** | ✅ | ✅ | ✅ |
+| **Strings** | ✅ | ✅ | ✅ |
+| **Linked List** | ✅ | ✅ | ✅ |
+| **Stacks** | ✅ | ✅ | ✅ |
+| **Queues** | ✅ | ✅ | ✅ |
+| **Trees** | ✅ | ✅ | ✅ |
+| **Graphs** | ✅ | ✅ | ✅ |
+| **Recursion** | ✅ | ✅ | ✅ |
+| **Dynamic Programming** | ✅ | ✅ | ✅ |
+| **Searching & Sorting** | ✅ | ✅ | ✅ |
+| **Bit Manipulation** | ✅ | ✅ | ✅ |
 
 
 Each folder contains:
