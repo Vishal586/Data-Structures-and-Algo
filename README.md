@@ -17,30 +17,62 @@ Each topic includes problems categorized into **Easy, Medium, and Hard** levels 
 DSA-Topicwise-Problems/
 │
 ├── Arrays/
-│ ├── Easy/
-│ ├── Medium/
-│ ├── Hard/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
 │
 ├── Strings/
-│ ├── Easy/
-│ ├── Medium/
-│ ├── Hard/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
 │
 ├── LinkedList/
-│ ├── Easy/
-│ ├── Medium/
-│ ├── Hard/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
 │
 ├── Stacks/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
+│
 ├── Queues/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
+│
 ├── Trees/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
+│
 ├── Graphs/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
+│
 ├── Recursion/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
+│
 ├── DynamicProgramming/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
+│
 ├── SearchingSorting/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
+│
 ├── BitManipulation/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
 │
 └── README.md
+
 
 Each folder contains:
 - 📄 Problem statement  
