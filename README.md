@@ -79,7 +79,6 @@ Each folder contains:
 All problems are primarily implemented in:
 - **C++**
 - **Java**
-- **Python**
 
 Each folder may contain code in multiple languages for better understanding.
 
