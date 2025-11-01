@@ -1,7 +1,3 @@
-Sure — here’s a **complete and professional README.md** for the **LeetCode “Two Sum”** problem, written in clean GitHub-style Markdown with all your requested sections and formatting:
-
----
-
 # 🧮 Two Sum
 
 ## 📝 1. Problem Statement
@@ -283,7 +279,3 @@ class Solution {
 
 ✅ **Final Verdict:**
 Use the **Hash Map (Optimal)** approach — efficient, elegant, and easy to implement.
-
----
-
-Would you like me to generate a **README template** version (where you can just replace the problem name and description for other LeetCode problems)?
